@@ -1,1 +1,1 @@
-# EImotif
+# EImotif (code for model simulations in paper)
