@@ -4,12 +4,12 @@ This repository contains data and code used for the submitted manuscript.
 
 ## Requirements
 
-PCSIM, http://www.lsm.tugraz.at/pcsim/
-Python
-IPython
-Numpy
-Scipy
-Matplotlib
+- PCSIM, http://www.lsm.tugraz.at/pcsim/
+- Python
+- IPython
+- Numpy
+- Scipy
+- Matplotlib
 
 The Enthought Python distribution (https://www.enthought.com/products/epd/) is a simple way to install all of them except PCSIM.
 
