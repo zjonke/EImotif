@@ -1,6 +1,14 @@
 # EI motif
 
-This repository contains data and code used for the submitted manuscript.
+This repository contains data and code used in the paper:
+**Feedback inhibition shapes emergent computational properties of cortical microcircuit motifs**, 
+by Z. Jonke, R. Legenstein, S. Habenschuss, and W. Maass,
+Journal of Neuroscience, 37(35):8511-8523, 2017.
+
+The paper is available at http://www.jneurosci.org/content/37/35/8511
+
+**Update**: the code ported to Python 3 and using Nest simulator is available at https://github.com/zjonke/EImotif-nest
+
 
 ## Requirements
 
